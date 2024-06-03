@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <math.h>
 #include <string.h>
-#include <conio.h>
 #include <bits/stdc++.h>
 #include <stdlib.h>
  
